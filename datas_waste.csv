@@ -1,0 +1,93 @@
+By-Product,Raw Material,Similarity,Company
+Steel scrap, Cast iron, 0.597, XYZ Industries
+Lead slag, Lead recycling, 0.522, ABC Corp
+Effluent sludge, Wastewater treatment plant, 0.495, DEF Inc
+Aluminum scrap, Cast iron, 0.416, GHI Industries
+Fly ash, Cement mill, 0.413, JKL Corp
+Electronic waste, Lead recycling, 0.403, MNO Inc
+Electroplating sludge, Aluminum electrolysis, 0.400, PQR Industries
+Spent lead acid batteries, Aluminum electrolysis, 0.396, STU Corp
+Galvanized scrap, Lead recycling, 0.385, VWX Industries
+Lead slag, Aluminum electrolysis, 0.380, YZA Corp
+Electroplating sludge, Wastewater treatment plant, 0.379, BCD Inc
+Electroplating sludge, Cement mill, 0.370, EFG Industries
+Aluminum scrap, Lead recycling, 0.368, HIJ Corp
+Steel scrap, Aluminum electrolysis, 0.361, KLM Industries
+Steel scrap, Lead recycling, 0.360, NOP Corp
+Food residues, Aerobic composting, 0.359, QRS Inc
+Electroplating sludge, Lead recycling, 0.351, TUV Industries
+Flue gas, Cement mill, 0.346, WXY Corp
+Galvanized scrap, Rubber product, 0.343, ZAB Industries
+Sewage, Aerobic composting, 0.343, CDE Inc
+Food residues, Wastewater treatment plant, 0.340, FGH Industries
+Galvanized scrap, Aluminum electrolysis, 0.339, IJK Corp
+Fermentation residues, Wastewater treatment plant, 0.315, LMN Inc
+Fermentation residues, Cogeneration plant, 0.315, OPQ Industries
+Lead scrap, Aluminum electrolysis, 0.314, RST Corp
+Fermentation residues, Cement mill, 0.307, UVW Industries
+Plastic waste, Recycled plastic, 0.85, XYZ Industries
+Wood chips, Sawdust, 0.92, ABC Corp
+Steel scrap, Iron ore, 0.78, DEF Inc
+Glass cullet, Recycled glass, 0.89, GHI Industries
+Aluminum scrap, Bauxite, 0.81, JKL Corp
+Paper waste, Recycled paper, 0.93, MNO Inc
+Rubber scraps, Recycled rubber, 0.87, PQR Industries
+Textile waste, Recycled textiles, 0.91, STU Corp
+Food waste, Compost, 0.84, VWX Industries
+Electronic waste, Recycled electronics, 0.88, YZA Corp
+Plastic pellets, Virgin plastic, 0.72, BCD Inc
+Copper scrap, Copper ore, 0.79, EFG Industries
+Glass bottles, Recycled glass, 0.87, HIJ Corp
+Steel billets, Iron ore, 0.82, KLM Industries
+Plastic film, Recycled plastic, 0.79, NOP Corp
+Aluminum ingots, Bauxite, 0.76, QRS Inc
+Paper pulp, Recycled paper, 0.90, TUV Industries
+Rubber granules, Recycled rubber, 0.86, WXY Corp
+Textile waste,Textile fabrics,0.327,ABC Textiles
+Glass waste,Fiberglass,0.315,XYZ Glass Works
+Paper waste,Cardboard boxes,0.302,Acme Packaging
+Rubber waste,Rubber crumbs,0.298,Superior Rubber Industries
+Electronic waste,Electronic circuit boards,0.289,Electronics Solutions Inc.
+Chemical waste,Chemical fertilizers,0.271,Agro-Chem Industries
+Food waste,Biogas,0.267,Green Energy Solutions
+Steel scrap,Steel pipes,0.261,Steel Dynamics
+Aluminum scrap,Aluminum foil,0.257,Alcoa Corporation
+Plastic waste,Plastic toys,0.249,Playtime Industries
+Textile waste,Textile dye,0.238,Dyeing Solutions LLC
+Glass waste,Stained glass,0.223,Artisan Glassworks
+Paper waste,Newspapers,0.211,The Daily News
+Rubber waste,Recycled rubber,0.202,Recycled Rubber Inc.
+Electronic waste,Electronic batteries,0.187,Battery Solutions Inc.
+Chemical waste,Chemical dyes,0.181,Dyeing Solutions LLC
+Food waste,Animal fats,0.173,Animal Nutrition Inc.
+Steel scrap,Steel sheets,0.163,Steel Dynamics
+Aluminum scrap,Aluminum cans,0.154,Alcoa Corporation
+Plastic waste,Plastic containers,0.147,Plastic Packaging Inc.
+Textile waste,Textile thread,0.141,ABC Textiles
+Paper waste,Toilet paper,0.127,Toilet Paper Industries
+Rubber waste,Recycled tires,0.122,Recycled Tire Solutions
+Electronic waste,Electronic appliances,0.118,Electronics Solutions Inc.
+Chemical waste,Chemical acids,0.114,Acid Solutions Inc.
+Food waste,Food oils,0.109,Oil Solutions Inc.
+Steel slag,Cement,0.652,Cement Industries Inc.
+Coal ash,Concrete,0.623,Concrete Solutions Inc.
+Wood waste,Paper,0.585,Paper Industries Inc.
+Pulp waste,Textiles,0.555,Textile Solutions Inc.
+Brewery waste,Animal feed,0.532,Animal Nutrition Inc.
+Fish waste,Fertilizers,0.526,Fertilizer Industries Inc.
+Fruit waste,Energy production,0.508,Green Energy Solutions
+Fish waste,Pharmaceuticals,0.497,Pharma Solutions Inc.
+Food waste,Anaerobic digestion,0.486,Bioenergy Solutions
+Food waste,Energy production,0.475,Green Energy Solutions
+Coffee waste,Fertilizers,0.469,Fertilizer Industries Inc.
+Sawdust,Pellets,0.458,Pellet Solutions Inc.
+Food waste,Animal bedding,0.445,Animal Bedding Inc.
+Fish waste,Cosmetics,0.437,Cosmetics Solutions Inc.
+Sewage sludge,Biogas,0.422,Biogas Solutions Inc.
+Sewage sludge,Fertilizers,0.411,Fertilizer Industries Inc.
+Brewery waste,Compost,0.399,Compost Solutions Inc.
+Palm oil waste,Biofuels,0.387,Biofuels Solutions Inc.
+Wood waste,Particleboard,0.375,Particleboard Industries Inc.
+Sawdust,Charcoal,0.364,Charcoal Solutions Inc.
+Fish waste,Food additives,0.353,Food Additive Industries
+
